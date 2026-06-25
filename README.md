@@ -6,7 +6,7 @@ This is to test the hypothesis coming from Tibshirani’s original lasso paper, 
 
 ## Files
 
-- `experiments.ipynb`: generates the dataset and runs the lasso/ridge comparison.
+- `experiment.ipynb`: generates the dataset and runs the lasso/ridge comparison.
 
 ## Dataset
 
